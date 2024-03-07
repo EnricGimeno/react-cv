@@ -1,8 +1,11 @@
-# React + Vite
+# CV feat React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Plantilla para adaptar y extender el currículum.
 
-Currently, two official plugins are available:
+Parte de 3 componentes que se pueden adaptar y/o extender:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```javascript
+    <Header />
+    <Experience />
+    <Contact />
+```
