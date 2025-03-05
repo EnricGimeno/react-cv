@@ -1,5 +1,5 @@
 import './App.css'
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Header';
 import Experience from './Experience';
 import Contact from './Contact';

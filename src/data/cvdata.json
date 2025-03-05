@@ -1,0 +1,84 @@
+{
+    "header":{
+        "nombre": "Enric Gimeno Vilanova",
+        "resumen": "Ingeniero en Geodesia y Cartografía y desarrollador de software en respuesta de emergencias con conocimientos en diversos lenguajes de programación aplicados en el ámbito de la geomática y con capacidad en distintos sistemas de información geográfica."
+    },
+    "contacto": {    
+        "direccion":"C/Joanot Martorell 19 1ª",
+        "poblacion": "Catarroja",
+        "codigo_postal": "46470",
+        "email": "engivi1@gmail.com",
+        "telefono": "608119393",
+        "linkedin": "https://www.linkedin.com/in/enric-gimeno-vilanova-5b8374106",
+        "github": "https://github.com/EnricGimeno"
+    },
+    "experiencia_laboral": [
+        {
+            "empresa": "Prodevelop",
+            "puesto": "Analista Programador",
+            "fecha_inicio": "2020-11-16",
+            "fecha_fin": "ACTUALIDAD",
+            "tareas": [
+                "Implantación de sistema de información geográfica para el Puerto Autónomo de Kribi",
+                "Responsable técnico del producto SPACE del ámbito portuario",
+                "Desarrollo técnico del producto Mapfre",
+                "Desarrollo técnico en el proyecto Eiffel"
+            ]
+        },
+        {
+            "empresa": "Ivnosys Solutions",
+            "puesto": "Analista Programador",
+            "fecha_inicio": "2020-01-21",
+            "fecha_fin": "2020-11-13",
+            "tareas": [
+                "Web scraping de varios sitios web oficiales para procesar datos",
+                "Uso de diferentes certificados digitales",
+                "Desarrollo en 'Ivneos': gestor de notificaciones electrónicas que permite automatizar el seguimiento, recepción y gestión de notificaciones electrónicas certificadas",
+                "Tecnologías backend: C#, VB, SQL Server"
+            ]
+        },
+        {
+            "empresa": "Carmenta Superior Situational Awareness",
+            "puesto": "Analista Programador",
+            "fecha_inicio": "2017-02-27",
+            "fecha_fin": "2019-12-31",
+            "tareas": [
+                "Tratamiento de datos geográficos programáticamente, empleando los programas propios de la empresa: Carmenta Engine, Carmenta Server, Carmenta Explorer, etc",
+                "Apoyo en el desarrollo de simulación de vuelo para Airbus con Carmenta Engine",
+                "Desarrollos en Carmenta CoordCom (Sistema de control y comunicación para organizaciones públicas que llevan a cabo operaciones de respuesta de emergencias, Ej.112). Desarrollo y actualización del front-end y back-end del software",
+                "Tecnologías backend: C#, .NET, SQL Server, Stored Procedures, .Net Core, Datasets",
+                "Tecnologías frontend: Windows Forms, WPF",
+                "API's, WebServices, REST, Postman",
+                "TFS y GIT como código de versión. TFS también empleado como gestor de tareas."
+            ]
+        },
+        {
+            "empresa": "Elecnor Deimos Space, S.L.U",
+            "puesto": "Analista Programador (Prácticas)",
+            "fecha_inicio": "2016-06-07",
+            "fecha_fin": "2016-11-30",
+            "tareas": [
+                "Transformación y tratamiento de datos geográficos programáticamente, empleando técnicas de análisis geoespacial: Simplificación mediante algoritmos de vecinos próximos, reclasificación, etc",
+                "Análisis y tratamiento de datos geográficos empleando distintas herramientas para análisis geoespacial (GDAL, GRASS, PostGIS, etc)",
+                "Publicación de datos geográficos en la Web y desarrollo de interfaces de usuario (Web maps).",
+                "Publicar información geográfica en la web con HTML, CSS, Javascript (jQuery) y desarrollar aplicaciones con Django y PostGis",
+                "Desarrollo de aplicaciones geoespaciales para la web con CartoDB",
+                "Integración de geoprocesos en aplicaciones Web"
+            ]
+        }
+    ],
+    "conocimientos_informaticos":[
+        {
+            "nombre": "Paquete Office",
+            "nivel": "ALTO"
+        },
+        {
+            "nombre": "Carto",
+            "nivel": "MEDIO"
+        },
+        {
+            "nombre": "Autocad",
+            "nivel": "BÁSICO"
+        }
+    ]
+}
